@@ -10,9 +10,9 @@ int sensorValor = 0;// Declaracao da variavel que sera atribuido o valor do sens
 int umidadeValor = 0;//Variavel que vai mostrar a porcentagem da umidade
 
 //Declaracao da chave de autenticacao do blynk e credenciais do roteador wifi
-char auth[] = "ha8SCvAkipsYDdsDATXvqao3Xw-x0YlT";
-char ssid[] = "APPA";
-char pass[] = "YIPYIP000";
+char auth[] = "";
+char ssid[] = "";
+char pass[] = "";
 
 void setup()
 {
